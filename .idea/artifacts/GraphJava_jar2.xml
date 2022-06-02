@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GraphJava:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraphJava_jar2</output-path>
+    <root id="archive" name="GraphJava.jar">
+      <element id="module-output" name="GraphJava" />
+    </root>
+  </artifact>
+</component>
